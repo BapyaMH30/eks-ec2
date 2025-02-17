@@ -1,4 +1,4 @@
-Format for terraform.tfvars
+Format for infra/terraform.tfvars
 ```
 aws_region             = "us-west-2"
 runner_instance_name   = "basion-host"
